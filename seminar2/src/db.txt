@@ -1,0 +1,9 @@
+1 Laptop1 16 128 windows pink;
+2 Laptop2 32 256 android black;
+3 Laptop3 16 128 windows pink;
+4 Laptop4 32 256 Mac black;
+5 Laptop5 16 128 windows silver;
+6 Laptop6 32 256 ubuntu yellow;
+7 Laptop7 32 256 Mac black;
+8 Laptop8 16 128 windows pink;
+9 Laptop9 64 256 linux black;
